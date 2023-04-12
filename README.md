@@ -8,7 +8,7 @@
 
 - 🌱 Studying web development and looking for a job in the area
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 As a mechanical engineer, I discovered my passion for building software to solve complex problems at scale. Combining my problem-solving and analytical skills with programming has allowed me to excel in this dynamic and evolving field.
 
 <!-- - 👨‍💻 More at [rainierresende.dev](https://rainierresende.dev) -->
 
