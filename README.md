@@ -30,7 +30,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;-->
 
 <br><br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -39,7 +39,7 @@
 </p>
 
 <br><br>
-
+-->
 ## Contact
 
 <p align="left" style="background:yellow">
