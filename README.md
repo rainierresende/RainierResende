@@ -44,9 +44,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/rainierresende" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RainierResende-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://linkedin.com/in/rainier-resende-souza-819152164/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RainierResende-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
