@@ -9,7 +9,7 @@
 Olá, sou um Engenheiro Mecânico que mergulhou de cabeça no mundo da programação. 💻 Atualmente, estou trilhando meu caminho como desenvolvedor, combinando minha base sólida em engenharia mecânica com uma pós-graduação em Engenharia de Software.
 
 🔧 Projetos Notáveis:
-Dê uma espiada nos projetos que desenvolvi no meu GitHub: https://github.com/RainierResende. Cada linha de código conta uma história!
+Dê uma espiada nos projetos que desenvolvi no meu [Github](https://github.com/RainierResende). Cada linha de código conta uma história!
 
 🔧 Experiência Além da Codificação:
 Antes de me aventurar no mundo do desenvolvimento, fui um Engenheiro Mecânico ativo com certificação pelo CREA. Participei ativamente do Baja SAE Brazil de 2017 a 2019 e também trabalhei em projetos freelancers no Solidworks, criando modelos 3D de equipamentos industriais, estruturas metálicas e motores de geração de energia.
