@@ -4,11 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainierresende&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer 
+🚀 Engenheiro Mecânico apaixonado por Desenvolvimento de Software 🖥️
 
-- 🌱 Studying web development and looking for a job in the area
+Olá, sou um Engenheiro Mecânico que mergulhou de cabeça no mundo da programação. 💻 Atualmente, estou trilhando meu caminho como desenvolvedor, combinando minha base sólida em engenharia mecânica com uma pós-graduação em Engenharia de Software.
 
-- 💬 As a mechanical engineer, I discovered my passion for building software to solve complex problems at scale. Combining my problem-solving and analytical skills with programming has allowed me to excel in this dynamic and evolving field.
+🔧 Projetos Notáveis:
+Dê uma espiada nos projetos que desenvolvi no meu GitHub: https://github.com/RainierResende. Cada linha de código conta uma história!
+
+🔧 Experiência Além da Codificação:
+Antes de me aventurar no mundo do desenvolvimento, fui um Engenheiro Mecânico ativo com certificação pelo CREA. Participei ativamente do Baja SAE Brazil de 2017 a 2019 e também trabalhei em projetos freelancers no Solidworks, criando modelos 3D de equipamentos industriais, estruturas metálicas e motores de geração de energia.
+
+Estou sempre em busca de desafios estimulantes e oportunidades de aprendizado. Se você está procurando alguém que traga uma perspectiva única para a equipe, adoraria conversar!
 
 <!-- - 👨‍💻 More at [rainierresende.dev](https://rainierresende.dev) -->
 
