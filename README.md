@@ -50,7 +50,7 @@ Estou sempre em busca de desafios estimulantes e oportunidades de aprendizado. S
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/rainier-resende-souza-819152164/" target="_blank">
+<a href="https://linkedin.com/in/rainier-resende-souza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RainierResende-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto:rainiersouza94@gmail.com" target="_blank">
